@@ -35,3 +35,8 @@ Blog link: [Click Here](https://medium.com/omdena/environmental-anomaly-detectio
 #### diff_image: matrix
   Difference image is the absolute difference between two given image.
 
+### Use
+
+* import detect_anomaly
+* create object using detect_anomaly.Anomaly() and pass required parameters.
+* call method of the obect: detect() and store the results.
