@@ -9,7 +9,7 @@ Blog link: https://medium.com/omdena/environmental-anomaly-detection-as-a-result
 
 #### detect_anomaly.Anomaly (first_image_path = None, second_image_path = None, block_size = 5, return_diff = False)
 
-### Parameters
+### * Parameters
 
 #### first_image_path: String
   Image path of the first image of the particular location
@@ -23,7 +23,7 @@ Blog link: https://medium.com/omdena/environmental-anomaly-detection-as-a-result
   If you want function to return difference image as well
   
   
-### Returns
+### * Returns
 
 #### change_map: matrix
   Image matrix depicting the change.
