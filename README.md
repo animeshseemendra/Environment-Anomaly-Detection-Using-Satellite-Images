@@ -1,6 +1,11 @@
 # Environment-Anomaly-Detection-Using-Satellite-Images
 Environment Anomaly Detection using standard machine learning techniques.
 
+## Introduction
+
+The technique uses PCA and KMeans to detect anomaly. The code is based on the paper: https://ieeexplore.ieee.org/document/5196726. 
+
+Blog link: https://medium.com/omdena/environmental-anomaly-detection-as-a-result-of-climate-change-using-satellite-images-34109977c09d
 
 #### detect_anomaly.Anomaly (first_image_path = None, second_image_path = None, block_size = 5, return_diff = False)
 
